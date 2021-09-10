@@ -1,5 +1,5 @@
-#9/10/21: now planning to convert this to python, and add some new functionalities
-#9/10/21: also planning to enable playing with computer, so 2 users won't be compulsory
+#now planning to convert this to python, and add some new functionalities
+#also planning to enable playing with computer, so 2 users won't be compulsory
 
 #include <stdio.h>
 
