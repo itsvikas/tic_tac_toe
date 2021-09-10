@@ -1,3 +1,5 @@
+#9/10/21: now planning to convert this to python, and add some new functionalities
+
 #include <stdio.h>
 
 char a[9]={'1','2','3','4','5','6','7','8','9'};
