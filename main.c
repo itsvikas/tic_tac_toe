@@ -1,3 +1,6 @@
+#9/10/21: now planning to convert this to python, and add some new functionalities
+#9/10/21: also planning to enable playing with computer, so 2 users won't be compulsory
+
 #include <stdio.h>
 
 char a[9]={'1','2','3','4','5','6','7','8','9'};
